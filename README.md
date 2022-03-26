@@ -1,0 +1,1 @@
+the goal of this system is to control the pitch of the aircraft given its deflection angle. the transfer function is derived from the aircraft's longitudional equations of motion. the control system is developed using two methods: pid and lqr.
